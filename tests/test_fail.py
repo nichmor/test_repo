@@ -1,1 +1,2 @@
-assert False == True
+def test_failing():
+  assert False == True
